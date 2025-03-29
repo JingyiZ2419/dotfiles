@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jingyiz2419@gmail.com
+	name = Jingyi Zhu
